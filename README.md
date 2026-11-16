@@ -12,7 +12,7 @@ I'm **Eduardo** (aka **theAstroBruh**), a creative developer behind **Astro~Vers
 
 ### 🪐 Featured Project
 
-**[CardGram](https://theastrobruh.github.io/CardGram/)** — In-browser 3D WebGL showcase & reel generator for TCG creators. 
+**[CardGram](https://theastrobruh.github.io/CardGram/)** — In-browser 3D WebGL showcase & reel generator for TCG creators.  
 `Three.js` · `WebGL` · `Vanilla JS` · [🚀 Live Demo](https://theastrobruh.github.io/CardGram/) · [📦 Source](https://github.com/theastrobruh/CardGram)
 
 ---
