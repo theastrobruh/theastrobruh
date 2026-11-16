@@ -12,9 +12,17 @@ I'm **Eduardo** (aka **theAstroBruh**), a creative developer behind **Astro~Vers
 
 ### 🪐 Featured Project
 
-**[CardGram](https://theastrobruh.github.io/CardGram/)** [![Beta](https://img.shields.io/badge/Stage-Public%20Beta-f59e0b?style=flat-square)](https://theastrobruh.github.io/CardGram/) [![Status](https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square)](https://github.com/theastrobruh/CardGram)  
-An in-browser 3D WebGL studio & reel creator for TCG artists — currently being forged in open beta and evolving with every sprint.  
-`Three.js` · `WebGL` · `Vanilla JS` · [🚀 Test the Live Beta](https://theastrobruh.github.io/CardGram/) · [📦 Source](https://github.com/theastrobruh/CardGram)
+<a href="https://theastrobruh.github.io/CardGram/">
+  <img src="https://raw.githubusercontent.com/theastrobruh/CardGram/main/assets/data/readme/cardgram-logo.svg" alt="CardGram — eCard Studio" width="290" />
+</a>
+
+<br/>
+
+[![Beta](https://img.shields.io/badge/Stage-Public%20Beta-f59e0b?style=flat-square)](https://theastrobruh.github.io/CardGram/)
+[![Status](https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square)](https://github.com/theastrobruh/CardGram)
+
+In-browser 3D WebGL studio & reel creator for TCG artists — currently being forged in open beta.  
+`Three.js` · `WebGL` · `Vanilla JS` · [🚀 Test Live Beta](https://theastrobruh.github.io/CardGram/) · [📦 Source](https://github.com/theastrobruh/CardGram)
 
 ---
 
