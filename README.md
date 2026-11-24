@@ -10,19 +10,40 @@ I'm **Eduardo** (aka **theAstroBruh**), a creative developer behind **Astro~Vers
 
 ---
 
-### 🪐 Featured Project
+### 🪐 Featured Projects
 
-<a href="https://theastrobruh.github.io/CardGram/">
-  <img src="https://raw.githubusercontent.com/theastrobruh/CardGram/main/assets/data/readme/cardgram-logo.svg" alt="CardGram — eCard Studio" width="290" />
-</a>
-
-<br/>
-
-[![Beta](https://img.shields.io/badge/Stage-Public%20Beta-f59e0b?style=flat-square)](https://theastrobruh.github.io/CardGram/)
-[![Status](https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square)](https://github.com/theastrobruh/CardGram)
-
-In-browser 3D WebGL studio & reel creator for TCG artists — currently being forged in open beta.  
-`Three.js` · `WebGL` · `Vanilla JS` · [🚀 Test Live Beta](https://theastrobruh.github.io/CardGram/) · [📦 Source](https://github.com/theastrobruh/CardGram)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://theastrobruh.github.io/CardGram/">
+        <img src="https://raw.githubusercontent.com/theastrobruh/CardGram/main/assets/data/readme/cardgram-logo.svg" alt="CardGram — eCard Studio" width="280" />
+      </a>
+      <br/><br/>
+      <a href="https://theastrobruh.github.io/CardGram/"><img src="https://img.shields.io/badge/Stage-Public%20Beta-f59e0b?style=flat-square" alt="Beta" /></a>
+      <a href="https://github.com/theastrobruh/CardGram"><img src="https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square" alt="Status" /></a>
+      <br/><br/>
+      In-browser 3D WebGL studio & reel creator for TCG artists — forged in open beta.
+      <br/><br/>
+      <code>Three.js</code> · <code>WebGL</code> · <code>Vanilla JS</code>
+      <br/><br/>
+      [🚀 Test Live Beta](https://theastrobruh.github.io/CardGram/) · [📦 Source](https://github.com/theastrobruh/CardGram)
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://theastrobruh.github.io/the.astro.os/">
+        <img src="https://raw.githubusercontent.com/theastrobruh/the.astro.os/main/public/assets/readme/the-astro-os-logo.svg" alt="the.astro.os — Cosmic Physics Web Desktop" width="280" />
+      </a>
+      <br/><br/>
+      <a href="https://theastrobruh.github.io/the.astro.os/"><img src="https://img.shields.io/badge/Version-v0.5.0-00E5FF?style=flat-square" alt="Version" /></a>
+      <a href="https://theastrobruh.github.io/the.astro.os/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-22c55e?style=flat-square" alt="Live" /></a>
+      <br/><br/>
+      Retro-futuristic cosmic web desktop OS powered by a real-time 2D physics engine & procedural Web Audio.
+      <br/><br/>
+      <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>SAT Physics</code>
+      <br/><br/>
+      [🚀 Launch OS](https://theastrobruh.github.io/the.astro.os/) · [📦 Source](https://github.com/theastrobruh/the.astro.os)
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,6 +57,9 @@ In-browser 3D WebGL studio & reel creator for TCG artists — currently being fo
 
 **Frontend & Workflow**  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)](https://pages.github.com/)
