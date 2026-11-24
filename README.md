@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm **Eduardo** (aka **theAstroBruh**), a creative developer behind **Astro~Verse**. I craft interactive 3D web experiences, creative tooling, and digital card (TCG) ecosystems using modern WebGL, Three.js, and zero-install architectures.
+I'm **Leo** (aka **theAstroBruh**), a creative developer behind **Astro~Verse**. I craft interactive 3D web experiences, creative tooling, and digital card (TCG) ecosystems using modern WebGL, Three.js, and zero-install architectures.
 
 ---
 
@@ -26,21 +26,21 @@ I'm **Eduardo** (aka **theAstroBruh**), a creative developer behind **Astro~Vers
       <br/><br/>
       <code>Three.js</code> · <code>WebGL</code> · <code>Vanilla JS</code>
       <br/><br/>
-      [🚀 Test Live Beta](https://theastrobruh.github.io/CardGram/) · [📦 Source](https://github.com/theastrobruh/CardGram)
+      <a href="https://theastrobruh.github.io/CardGram/">🚀 <b>Test Live Beta</b></a> · <a href="https://github.com/theastrobruh/CardGram">📦 <b>Source</b></a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://theastrobruh.github.io/the.astro.os/">
         <img src="https://raw.githubusercontent.com/theastrobruh/the.astro.os/main/public/assets/readme/the-astro-os-logo.svg" alt="the.astro.os — Cosmic Physics Web Desktop" width="280" />
       </a>
       <br/><br/>
-      <a href="https://theastrobruh.github.io/the.astro.os/"><img src="https://img.shields.io/badge/Version-v0.5.0-00E5FF?style=flat-square" alt="Version" /></a>
-      <a href="https://theastrobruh.github.io/the.astro.os/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-22c55e?style=flat-square" alt="Live" /></a>
+      <a href="https://theastrobruh.github.io/the.astro.os/"><img src="https://img.shields.io/badge/Stage-Public%20Beta-f59e0b?style=flat-square" alt="Beta" /></a>
+      <a href="https://github.com/theastrobruh/the.astro.os"><img src="https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square" alt="Status" /></a>
       <br/><br/>
       Retro-futuristic cosmic web desktop OS powered by a real-time 2D physics engine & procedural Web Audio.
       <br/><br/>
       <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>SAT Physics</code>
       <br/><br/>
-      [🚀 Launch OS](https://theastrobruh.github.io/the.astro.os/) · [📦 Source](https://github.com/theastrobruh/the.astro.os)
+      <a href="https://theastrobruh.github.io/the.astro.os/">🚀 <b>Launch OS</b></a> · <a href="https://github.com/theastrobruh/the.astro.os">📦 <b>Source</b></a>
     </td>
   </tr>
 </table>
