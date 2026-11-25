@@ -6,13 +6,43 @@
   </a>
 </p>
 
-I'm **Leo** (aka **theAstroBruh**), a creative developer behind **Astro~Verse**. I craft interactive 3D web experiences, creative tooling, and digital card (TCG) ecosystems using modern WebGL, Three.js, and zero-install architectures.
+I'm **Eduardo** (aka **theAstroBruh**), a creative developer behind **Astro~Verse**. I craft interactive 3D web experiences, creative tooling, and digital card (TCG) ecosystems using modern WebGL, Three.js, and zero-install architectures.
 
 ---
 
 ### 🪐 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://theastrobruh.github.io/Astro.Studio/">
+        <img src="https://raw.githubusercontent.com/theastrobruh/Astro.Studio/main/public/assets/readme/astro-studio-logo.svg" alt="Astro.Studio — Browser-Native Photo & Color Grading Studio" width="280" />
+      </a>
+      <br/><br/>
+      <a href="https://theastrobruh.github.io/Astro.Studio/"><img src="https://img.shields.io/badge/Version-v1.0.0-00E5FF?style=flat-square" alt="Version" /></a>
+      <a href="https://github.com/theastrobruh/Astro.Studio"><img src="https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square" alt="Status" /></a>
+      <br/><br/>
+      Browser-native photo editing, color grading, tonal curves, EXIF inspection & batch ZIP export.
+      <br/><br/>
+      <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>Vite</code>
+      <br/><br/>
+      <a href="https://theastrobruh.github.io/Astro.Studio/">🎨 <b>Open Studio</b></a> · <a href="https://github.com/theastrobruh/Astro.Studio">📦 <b>Source</b></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://theastrobruh.github.io/Pressmark/">
+        <img src="https://raw.githubusercontent.com/theastrobruh/Pressmark/main/public/assets/readme/pressmark-logo.svg" alt="Pressmark — Browser-Native Media Studio" width="280" />
+      </a>
+      <br/><br/>
+      <a href="https://theastrobruh.github.io/Pressmark/"><img src="https://img.shields.io/badge/Version-v0.5.0-00E5FF?style=flat-square" alt="Version" /></a>
+      <a href="https://github.com/theastrobruh/Pressmark"><img src="https://img.shields.io/badge/Status-In%20Active%20Dev-38BDF8?style=flat-square" alt="Status" /></a>
+      <br/><br/>
+      100% client-side media studio for watermarks (photos/GIFs/videos), background removal & format conversion.
+      <br/><br/>
+      <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>Vite</code>
+      <br/><br/>
+      <a href="https://theastrobruh.github.io/Pressmark/">🎨 <b>Open Pressmark</b></a> · <a href="https://github.com/theastrobruh/Pressmark">📦 <b>Source</b></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://theastrobruh.github.io/CardGram/">
